@@ -41,10 +41,6 @@ Zgodnie z poleceniem egzaminacyjnym wykonano:
 ├── zawody.jpg
 ├── zgloszenie.php
 
-yaml
-Копіювати
-Редагувати
-
 ---
 
 ## ⚙️ Technologie
