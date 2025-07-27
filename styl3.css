@@ -1,0 +1,59 @@
+* {
+    font-family: Verdana;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+header,
+footer {
+    display: flex;
+}
+
+header section {
+    background-color: seagreen;
+    color:white;
+    line-height: 150px;
+    height: 260px;
+    font-size: 160%;
+}
+
+header section:first-child {
+    width: 75%;
+}
+
+header section:last-child {
+    width: 25%;
+    text-align: right;
+}
+
+main {
+    background-color: mintcream;
+    padding: 80px;
+}
+
+footer section {
+    background-color: seagreen;
+    color:white;
+    height: 70px;
+    width: 50%;
+    text-align: center;
+
+}
+
+form input,
+form button {
+    margin-top: 20px;
+}
+
+img {
+    box-shadow:15px 15px 10px dimgray;
+}
+
+a {
+    text-decoration: none;
+    background-color: mintcream;
+    color: seagreen;
+    padding: 15px;
+    line-height: 70px;
+}
