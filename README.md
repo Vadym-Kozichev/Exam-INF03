@@ -29,17 +29,17 @@ Zgodnie z poleceniem egzaminacyjnym wykonano:
 
 ## 🗂 Struktura plików
 
-├── import.png
-├── kw1.jpg
-├── kw2.jpg
-├── kw3.jpg
-├── kw4.jpg
-├── kwerendy.txt
-├── przeglądarka.txt
-├── styl3.css
-├── zawody.html
-├── zawody.jpg
-├── zgloszenie.php
+-├── import.png
+-├── kw1.jpg
+-├── kw3.jpg
+-├── kw2.jpg
+-├── kw4.jpg
+-├── kwerendy.txt
+-├── przeglądarka.txt
+-├── styl3.css
+-├── zawody.html
+-├── zawody.jpg
+-├── zgloszenie.php
 
 ---
 
